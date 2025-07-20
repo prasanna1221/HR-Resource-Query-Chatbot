@@ -29,7 +29,7 @@ query = st.text_input("💬 Ask your HR query:", placeholder="E.g., Who has Reac
 if query:
     with st.spinner("🔍 Thinking..."):
         try:
-            # API Call to FastAPI server
+            # API Call to FastAPI server 
             response = requests.post("https://hr-resource-query-chatbot-3.onrender.com/chat", json={"question": query}, timeout=10)
 
             if response.status_code == 200:
