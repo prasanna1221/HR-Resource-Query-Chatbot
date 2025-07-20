@@ -30,7 +30,7 @@ if query:
     with st.spinner("🔍 Thinking..."):
         try:
             # API Call to FastAPI server
-            response = requests.post("http://localhost:8000/chat", json={"question": query}, timeout=10)
+            response = requests.post("https://hr-resource-query-chatbot-3.onrender.com/chat", json={"question": query}, timeout=10)
 
             if response.status_code == 200:
                 data = response.json()
