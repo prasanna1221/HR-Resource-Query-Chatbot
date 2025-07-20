@@ -1,0 +1,284 @@
+{
+  "employees": [
+    {
+      "id": 1,
+      "name": "Alice Johnson",
+      "skills": ["Python", "React", "AWS"],
+      "experience_years": 5,
+      "projects": ["E-commerce Platform", "Healthcare Dashboard"],
+      "availability": "available"
+    },
+    {
+      "id": 2,
+      "name": "Michael Rodriguez",
+      "skills": ["Machine Learning", "scikit-learn", "pandas"],
+      "experience_years": 4,
+      "projects": ["Patient Risk Prediction System"],
+      "availability": "available"
+    },
+    {
+      "id": 3,
+      "name": "Dr. Sarah Chen",
+      "skills": ["Machine Learning", "TensorFlow", "PyTorch", "Medical Data Processing"],
+      "experience_years": 6,
+      "projects": ["Medical Diagnosis Platform"],
+      "availability": "available"
+    },
+    {
+      "id": 4,
+      "name": "David Smith",
+      "skills": ["JavaScript", "Node.js", "Express"],
+      "experience_years": 3,
+      "projects": ["Real-time Chat Application"],
+      "availability": "available"
+    },
+    {
+      "id": 5,
+      "name": "Emily Davis",
+      "skills": ["React", "Redux", "TypeScript"],
+      "experience_years": 4,
+      "projects": ["Social Media Platform"],
+      "availability": "available"
+    },
+    {
+      "id": 6,
+      "name": "James Brown",
+      "skills": ["Python", "Django", "PostgreSQL"],
+      "experience_years": 5,
+      "projects": ["Inventory Management System"],
+      "availability": "available"
+    },
+    {
+      "id": 7,
+      "name": "Linda Wilson",
+      "skills": ["HTML", "CSS", "JavaScript"],
+      "experience_years": 2,
+      "projects": ["Portfolio Website"],
+      "availability": "available"
+    },
+    {
+      "id": 8,
+      "name": "Robert Garcia",
+      "skills": ["C#", ".NET Core", "SQL Server"],
+      "experience_years": 6,
+      "projects": ["Enterprise Resource Planning System"],
+      "availability": "available"
+    },
+    {
+      "id": 9,
+      "name": "Patricia Martinez",
+      "skills": ["PHP", "Laravel", "MySQL"],
+      "experience_years": 4,
+      "projects": ["Content Management System"],
+      "availability": "available"
+    },
+    {
+      "id": 10,
+      "name": "Charles Hernandez",
+      "skills": ["Go", "Docker", "Kubernetes"],
+      "experience_years": 3,
+      "projects": ["Microservices Architecture"],
+      "availability": "available"
+    },
+    {
+      "id": 11,
+      "name": "Jessica Lopez",
+      "skills": ["Swift", "iOS Development"],
+      "experience_years": 5,
+      "projects": ["Mobile Banking App"],
+      "availability": "available"
+    },
+    {
+      "id": 12,
+      "name": "Daniel Gonzalez",
+      "skills": ["Android Development", "Kotlin"],
+      "experience_years": 4,
+      "projects": ["Fitness Tracking App"],
+      "availability": "available"
+    },
+    {
+      "id": 13,
+      "name": "Laura Perez",
+      "skills": ["Data Analysis", "Tableau", "SQL"],
+      "experience_years": 3,
+      "projects": ["Sales Analytics Dashboard"],
+      "availability": "available"
+    },
+    {
+      "id": 14,
+      "name": "Christopher Wilson",
+      "skills": ["DevOps", "AWS", "CI/CD"],
+      "experience_years": 5,
+      "projects": ["Cloud Infrastructure Setup"],
+      "availability": "available"
+    },
+    {
+      "id": 15,
+      "name": "Megan Taylor",
+      "skills": ["UI/UX Design", "Figma", "Adobe XD"],
+      "experience_years": 4,
+      "projects": ["E-commerce Website Redesign"],
+      "availability": "available"
+    },
+    {
+      "id": 16,
+      "name": "Brian Hall",
+      "skills": ["Rust", "WebAssembly", "Systems Programming"],
+      "experience_years": 4,
+      "projects": ["Browser Engine Optimization"],
+      "availability": "available"
+    },
+    {
+      "id": 17,
+      "name": "Samantha Green",
+      "skills": ["Java", "Spring Boot", "Hibernate"],
+      "experience_years": 6,
+      "projects": ["Banking Backend Services"],
+      "availability": "available"
+    },
+    {
+      "id": 18,
+      "name": "Anthony Young",
+      "skills": ["R", "Statistics", "Data Visualization"],
+      "experience_years": 5,
+      "projects": ["Epidemiology Research"],
+      "availability": "available"
+    },
+    {
+      "id": 19,
+      "name": "Chloe White",
+      "skills": ["Python", "Flask", "SQLAlchemy"],
+      "experience_years": 3,
+      "projects": ["Booking System"],
+      "availability": "available"
+    },
+    {
+      "id": 20,
+      "name": "Kevin Scott",
+      "skills": ["Angular", "TypeScript", "RxJS"],
+      "experience_years": 4,
+      "projects": ["Enterprise Dashboard"],
+      "availability": "available"
+    },
+    {
+      "id": 21,
+      "name": "Natalie Evans",
+      "skills": ["Power BI", "Excel", "SQL"],
+      "experience_years": 3,
+      "projects": ["Executive Reporting Tools"],
+      "availability": "available"
+    },
+    {
+      "id": 22,
+      "name": "Aaron Mitchell",
+      "skills": ["Python", "NLP", "spaCy"],
+      "experience_years": 5,
+      "projects": ["Chatbot for Customer Support"],
+      "availability": "available"
+    },
+    {
+      "id": 23,
+      "name": "Isabella Torres",
+      "skills": ["JavaScript", "Vue.js", "GraphQL"],
+      "experience_years": 4,
+      "projects": ["News Aggregator Site"],
+      "availability": "available"
+    },
+    {
+      "id": 24,
+      "name": "Ethan Ramirez",
+      "skills": ["C++", "OpenGL", "Game Development"],
+      "experience_years": 6,
+      "projects": ["3D Game Engine"],
+      "availability": "available"
+    },
+    {
+      "id": 25,
+      "name": "Grace Lee",
+      "skills": ["SQL", "ETL", "Data Warehousing"],
+      "experience_years": 5,
+      "projects": ["Data Pipeline Automation"],
+      "availability": "available"
+    },
+    {
+      "id": 26,
+      "name": "Jacob Walker",
+      "skills": ["Python", "Jupyter", "Matplotlib"],
+      "experience_years": 2,
+      "projects": ["Scientific Research Reports"],
+      "availability": "available"
+    },
+    {
+      "id": 27,
+      "name": "Olivia Adams",
+      "skills": ["React Native", "Expo", "Mobile UI"],
+      "experience_years": 3,
+      "projects": ["Food Delivery App"],
+      "availability": "available"
+    },
+    {
+      "id": 28,
+      "name": "Liam Nelson",
+      "skills": ["Unity", "C#", "AR/VR"],
+      "experience_years": 4,
+      "projects": ["AR Education App"],
+      "availability": "available"
+    },
+    {
+      "id": 29,
+      "name": "Sophia Carter",
+      "skills": ["Cybersecurity", "Penetration Testing", "Linux"],
+      "experience_years": 5,
+      "projects": ["Security Audit Tools"],
+      "availability": "available"
+    },
+    {
+      "id": 30,
+      "name": "Benjamin Rivera",
+      "skills": ["Blockchain", "Solidity", "Ethereum"],
+      "experience_years": 3,
+      "projects": ["Smart Contract Platform"],
+      "availability": "available"
+    },
+    {
+      "id": 31,
+      "name": "Victoria Brooks",
+      "skills": ["SEO", "Content Strategy", "Google Analytics"],
+      "experience_years": 4,
+      "projects": ["Marketing Analytics Dashboard"],
+      "availability": "available"
+    },
+    {
+      "id": 32,
+      "name": "Andrew Morgan",
+      "skills": ["Python", "Airflow", "BigQuery"],
+      "experience_years": 5,
+      "projects": ["Data Pipeline for Analytics"],
+      "availability": "available"
+    },
+    {
+      "id": 33,
+      "name": "Zoe Bell",
+      "skills": ["HTML", "SASS", "Bootstrap"],
+      "experience_years": 3,
+      "projects": ["Responsive Web Templates"],
+      "availability": "available"
+    },
+    {
+      "id": 34,
+      "name": "Owen Bailey",
+      "skills": ["Terraform", "AWS", "Cloud Automation"],
+      "experience_years": 4,
+      "projects": ["Infrastructure as Code Setup"],
+      "availability": "available"
+    },
+    {
+      "id": 35,
+      "name": "Ava Rivera",
+      "skills": ["MATLAB", "Signal Processing", "Image Analysis"],
+      "experience_years": 6,
+      "projects": ["Medical Imaging Software"],
+      "availability": "available"
+    }
+  ]
+}
